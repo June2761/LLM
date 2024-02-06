@@ -1,0 +1,6 @@
+env/
+.env
+files/
+.cache/
+.streamlit/
+gpt4all-falcon-q4_0.gguf
